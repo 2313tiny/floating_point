@@ -1,0 +1,16 @@
+
+
+//Working version
+represantation Floating point to Binary 32 bit 
+after point you can use 5 digit
+befor point you can use 9 digit
+
+
+Dear costumer, 
+you can to compare  result with value from attached site
+
+https://binary-system.base-conversion.ro/convert-real-numbers-from-decimal-system-to-32bit-single-precision-IEEE754-binary-floating-point.php
+
+worked and tested with value , which have a digit
+include 0.123
+
